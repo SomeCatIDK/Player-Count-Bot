@@ -1,5 +1,5 @@
 {
-  "name": "unturned-bot",
+  "name": "player-count-bot",
   "version": "1.0.0",
   "description": "A lightweight Discord bot to handle a player-count for game servers through a REST API.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SomeCatIDK/Unturned-Bot.git"
+    "url": "git+https://github.com/SomeCatIDK/Player-Count-Bot.git"
   },
   "keywords": [
     "unturned",
@@ -18,9 +18,9 @@
   "author": "SomeCatIDK",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SomeCatIDK/Unturned-Bot/issues"
+    "url": "https://github.com/SomeCatIDK/Player-Count-Bot/issues"
   },
-  "homepage": "https://github.com/SomeCatIDK/Unturned-Bot#readme",
+  "homepage": "https://github.com/SomeCatIDK/Player-Count-Bot",
   "dependencies": {
     "body-parser": "^1.18.3",
     "discord.js": "^11.4.2",
